@@ -2,11 +2,10 @@
 
 ## Problem
 
-After building contstruction, ambient conditions are immutable. Currently there are innevitable environmental variables that escape the design of architects. These conditions that can create an uncomfortable humidity, lighting, and/or temperature for the buildings occupants.
-
+After building contstruction, ambient conditions tend to become immutable. These conditions can create inhospitable combinations of humidity, lighting, and temperature.
+2
 ## Abstract:
-
-This dissertation proposes an indoor ambient environment tracker that utilizes autonomous navigation and LiDAR mapping to enhance the comfort of individuals inside the building. The system is designed to continuously monitor and track indoor environmental factors, such as temperature, humidity, and air quality, and create a detailed 3D map of the indoor environment. This information is then used to provide real-time feedback to users, enabling them to make informed decisions to improve their comfort. The proposed system has the potential to improve the indoor environment's overall comfort and well-being, enhancing productivity, and reducing energy consumption.
+We propose an indoor ambient environment tracker that utilizes autonomous navigation and LiDAR mapping to enhance the comfort of individuals inside the building. The system is designed to continuously monitor and track indoor environmental factors, such as temperature, humidity, and air quality, and create a detailed 3D map of the indoor environment. This information is then used to provide real-time feedback to users, enabling them to make informed decisions to improve their comfort. The proposed system has the potential to improve the indoor environment's overall comfort and well-being, enhancing productivity, and reducing energy consumption.
 
 ## Introduction:
 
