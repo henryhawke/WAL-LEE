@@ -3,7 +3,7 @@
 ## Problem
 
 After building contstruction, ambient conditions tend to become immutable. These conditions can create inhospitable combinations of humidity, lighting, and temperature.
-2
+
 ## Abstract:
 We propose an indoor ambient environment tracker that utilizes autonomous navigation and LiDAR mapping to enhance the comfort of individuals inside the building. The system is designed to continuously monitor and track indoor environmental factors, such as temperature, humidity, and air quality, and create a detailed 3D map of the indoor environment. This information is then used to provide real-time feedback to users, enabling them to make informed decisions to improve their comfort. The proposed system has the potential to improve the indoor environment's overall comfort and well-being, enhancing productivity, and reducing energy consumption.
 
@@ -42,9 +42,11 @@ SLAM (simultaneous localization and mapping) is a method used for autonomous veh
 ## Setup
 https://github.com/henryhawke/PyRoboViz
 
+https://github.com/henryhawke/diy-ROS-robot
 
 
 ### REFERENCES
+
 
 https://yoraish.com/2021/09/08/a-full-autonomous-stack-a-tutorial-ros-raspberry-pi-arduino-slam/
 
