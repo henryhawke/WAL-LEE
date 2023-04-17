@@ -35,6 +35,14 @@ This follows a very similar configuration to our system specification. - > https
 ### https://learn.ubiquityrobotics.com/noetic_quick_start_workstation
 
 
+## WHAT IS SLAM?!
+
+SLAM (simultaneous localization and mapping) is a method used for autonomous vehicles that lets you build a map and localize your vehicle in that map at the same time. SLAM algorithms allow the vehicle to map out unknown environments.
+
+## Setup
+https://github.com/henryhawke/PyRoboViz
+
+
 
 ### REFERENCES
 
