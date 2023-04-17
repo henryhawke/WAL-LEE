@@ -48,6 +48,9 @@ https://github.com/henryhawke/diy-ROS-robot
 https://learn.ubiquityrobotics.com/noetic_quick_start_navigation
 
 
+https://github.com/henryhawke/Emotion-Detection-using-Deep-Learning
+
+
 ### REFERENCES
 
 
