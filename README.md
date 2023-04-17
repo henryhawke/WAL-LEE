@@ -53,6 +53,7 @@ https://github.com/henryhawke/Emotion-Detection-using-Deep-Learning
 
 ### REFERENCES
 
+https://blog.ml.cmu.edu/2020/06/19/learning-to-explore-using-active-neural-slam/
 
 https://yoraish.com/2021/09/08/a-full-autonomous-stack-a-tutorial-ros-raspberry-pi-arduino-slam/
 
